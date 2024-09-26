@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bright Jeeraphat</h1>
+<h1 align="center">Hi 👋, I'm Jeeraphat</h1>
 <h3 align="center">I'm a senior studying computer engineering at the Faculty of Engineering at Kasetsart University.</h3>
 
 <p align="left">
